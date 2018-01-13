@@ -26,6 +26,10 @@ or
 react-native run-ios
 ```
 
+### Screen shots
+
+![](play%20store/Screenshot_1515709772.png)
+
 ### Built With
 
 * React Native
