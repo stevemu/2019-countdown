@@ -13,6 +13,8 @@ What things you need to install the software and how to install them
 ```
 npm i -g react-native-cli
 ```
+* Android Studio
+* or Xcode
 
 ### Installing
 
