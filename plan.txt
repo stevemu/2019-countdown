@@ -1,0 +1,27 @@
+countdown to 2018:
+
+https://www.youtube.com/watch?v=vheMdBBUpoo
+https://www.youtube.com/watch?v=XujpAv3Lxdc
+
+if there is any way to set up this application as a wall paper or screen saver.
+
+android 
+
+
+ios
+
+
+
+
+creat moent for 2019 new year
+then substract today
+
+moment().endOf("year");
+
+
+
+
+show h,m s to end of this year
+when it is reached that year, show 0:0:0 and Happy New Year!
+
+
