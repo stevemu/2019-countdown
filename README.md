@@ -28,7 +28,7 @@ react-native run-ios
 
 ### Screen shots
 
-![](play%20store/Screenshot_1515709772.png)
+![](play%20store/Screenshot_1515709772_small.png)
 
 ### Built With
 
